@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://repository-images.githubusercontent.com/471161320/094fc151-54c7-4581-9b19-f52960682fa2" alt="MockForge Header" width="100%" />
-</p>
+![MockForge Header](https://repository-images.githubusercontent.com/471161320/094fc151-54c7-4581-9b19-f52960682fa2)
 
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/AishaRiaz-Dev/MockForge?color=blue&label=updated&logo=github" alt="Last Commit" />
