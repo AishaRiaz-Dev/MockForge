@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?text=MockForge&type=waving&color=auto&height=200&section=header&fontSize=60&animation=fadeIn" alt="MockForge Header" />
+  <img src="https://repository-images.githubusercontent.com/471161320/094fc151-54c7-4581-9b19-f52960682fa2" alt="MockForge Header" width="100%" />
 </p>
 
 <p align="center">
