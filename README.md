@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/YOUR_GITHUB_USERNAME/MockForge?color=blue&label=version&logo=github" alt="Version" />
-  <img src="https://img.shields.io/github/repo-size/YOUR_GITHUB_USERNAME/MockForge?color=success&logo=github" alt="Repo Size" />
+  <img src="https://img.shields.io/github/v/release/AishaRiaz-Dev/MockForge?color=blue&label=version&logo=github" alt="Version" />
+  <img src="https://img.shields.io/github/repo-size/AishaRiaz-Dev/MockForge?color=success&logo=github" alt="Repo Size" />
   <img src="https://img.shields.io/badge/License-MIT-green.svg?logo=opensourceinitiative&logoColor=white" alt="License" />
   <img src="https://img.shields.io/badge/Language-C%2B%2B%2011%2F14%2F17-orange?logo=cplusplus&logoColor=white" alt="Language" />
 </p>
