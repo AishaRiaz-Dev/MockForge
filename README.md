@@ -1,4 +1,6 @@
-![MockForge Header](https://repository-images.githubusercontent.com/471161320/094fc151-54c7-4581-9b19-f52960682fa2)
+<p align="center">
+  <img src="https://microcks.io/images/microcks-logo-blue.png" alt="MockForge Header" width="60%" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/AishaRiaz-Dev/MockForge?color=blue&label=updated&logo=github" alt="Last Commit" />
