@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://microcks.io/images/microcks-logo-blue.png" alt="MockForge Header" width="60%" />
+  <h1>🛠️ MockForge</h1>
+  <h3>Microcks-Inspired API Mocking & Architecture Engine</h3>
 </p>
 
 <p align="center">
@@ -8,6 +9,8 @@
   <img src="https://img.shields.io/badge/License-MIT-green.svg?logo=opensourceinitiative&logoColor=white" alt="License" />
   <img src="https://img.shields.io/badge/Language-C%2B%2B%2011%2F14%2F17-orange?logo=cplusplus&logoColor=white" alt="Language" />
 </p>
+
+---
 
 ---
 
