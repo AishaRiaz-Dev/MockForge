@@ -28,7 +28,7 @@
 * **3NF Schema Parsing Logic:** Core C++ engine interface successfully isolates relational table setups to accurately route incoming simulated REST paths.
 * **Deterministic Responses:** Verified local simulation pipeline actively parses input constraints to return crisp `200 OK` JSON string outputs matching target database values instantly.
 * **Status:** Engine baseline validation complete. Codebase is optimized and fully prepared for expanded open-source integration tests.
-*
+
 ---
 
 ## 🛠️ Tech Stack & Architecture Metrics
